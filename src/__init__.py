@@ -1,0 +1,1 @@
+from .urban_sound_8k_images import UrbanSound8kImagesDataModule
